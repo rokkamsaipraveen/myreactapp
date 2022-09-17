@@ -11,8 +11,8 @@ class FilterData extends Component {
       <div>
         <table border={1}>
           <tr>
-            <th> name of item</th>
-            <th>price of item</th>
+            <th>Name of item</th>
+            <th>Price of item</th>
             <th>quantity</th>
           </tr>
           {products.map((item) => {
