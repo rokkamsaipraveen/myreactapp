@@ -13,7 +13,7 @@ class FilterData extends Component {
           <tr>
             <th>Name of item</th>
             <th>Price of item</th>
-            <th>quantity</th>
+            <th>Quantity</th>
           </tr>
           {products.map((item) => {
             return (
